@@ -5,6 +5,11 @@ This project is an automated low-latency crytocurrency bot build with C++ and po
 - Real-time order execution with Binance REST API
 - Customizable trading strategies (scalping, momentum, market making, etc.)
 - Basic position sizing and risk controls
-
+# 🤝 Contribute & Collaborate
+I'm open to suggestions, improvements, or changes—whether it's about the trading strategy, code structure, or new features you'd like to see.
+Feel free to:
+- Open an issue for feedback or bugs
+- Fork the repo and submit a pull request
+- Share new strategy ideas or optimization techniques
 # ⚠️ Disclaimer: 
 This bot is for educational and experimental purposes only. Trading cryptocurrencies involves substantial risk. Use at your own discretion.
