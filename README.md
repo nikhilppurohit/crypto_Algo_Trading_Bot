@@ -6,4 +6,5 @@ This project is an automated low-latency crytocurrency bot build with C++ and po
 - Customizable trading strategies (scalping, momentum, market making, etc.)
 - Basic position sizing and risk controls
 
-⚠️ Disclaimer: This bot is for educational and experimental purposes only. Trading cryptocurrencies involves substantial risk. Use at your own discretion.
+# ⚠️ Disclaimer: 
+This bot is for educational and experimental purposes only. Trading cryptocurrencies involves substantial risk. Use at your own discretion.
